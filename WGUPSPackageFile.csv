@@ -1,0 +1,40 @@
+1,195 W Oakland Ave,Salt Lake City,UT,84115,10:30,21,None,SSLP_Works
+2,2530 S 500 E,Salt Lake City,UT,84106,EOD,44,None,C_Library
+3,233 Canyon Rd,Salt Lake City,UT,84103,EOD,2,Truck 2,SLCO_Hall
+4,380 W 2880 S,Salt Lake City,UT,84115,EOD,4,None,UDMV_Office
+5,410 S State St,Salt Lake City,UT,84111,EOD,5,None,TDJ_Court
+6,3060 Lester St,West Valley City,UT,84119,10:30,88,Delayed Flight ,RW_Park
+7,1330 2100 S,Salt Lake City,UT,84106,EOD,8,None,SH_Park
+8,300 State St,Salt Lake City,UT,84103,EOD,9,None,C_Hall
+9,300 State St,Salt Lake City,UT,84103,EOD,2,Wrong Address,TDJ_Court
+10,600 E 900 South,Salt Lake City,UT,84105,EOD,1,None,RTP_Park
+11,2600 Taylorsville Blvd,Salt Lake City,UT,84118,EOD,1,None,TC_Hall
+12,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,EOD,1,None,WV_Prosecutor
+13,2010 W 500 S,Salt Lake City,UT,84104,10:30,2,Accompany 19,SLCS_Sanitation
+14,4300 S 1300 E,Millcreek,UT,84117,10:30,88,"Accompany 15, 19",CRS_Complex
+15,4580 S 2300 E,Holladay,UT,84117,9:00,4,"Accompany 14, 19",HC_Office
+16,4580 S 2300 E,Holladay,UT,84117,10:30,88,"Accompany 13, 19",HC_Office
+17,3148 S 1100 W,Salt Lake City,UT,84119,EOD,2,None,SLC_Mental
+18,1488 4800 S,Salt Lake City,UT,84123,EOD,6,Truck 2,TBH_Gov
+19,177 W Price Ave,Salt Lake City,UT,84115,EOD,37,"Accompany 13, 14, 15",SLC_Health
+20,3595 Main St,Salt Lake City,UT,84115,10:30,37,"Accompany 13, 15",SLC_Housing
+21,3595 Main St,Salt Lake City,UT,84115,EOD,3,None,SLC_Housing
+22,6351 South 900 East,Murray,UT,84121,EOD,2,None,WH_Farm
+23,5100 South 2700 West,Salt Lake City,UT,84118,EOD,5,None,VRS_Complex
+24,5025 State St,Murray,UT,84107,EOD,7,None,MC_Museum
+25,5383 South 900 East #104,Salt Lake City,UT,84117,10:30,7,Delayed Flight,CCR_Springs
+26,5383 South 900 East #104,Salt Lake City,UT,84117,EOD,25,None,CCR_Springs
+27,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,5,None,IP_Gardens
+28,2835 Main St,Salt Lake City,UT,84115,EOD,7,Delayed Flight,SSL_Police
+29,1330 2100 S,Salt Lake City,UT,84106,10:30,2,None,SH_Park
+30,300 State St,Salt Lake City,UT,84103,10:30,1,None,C_Hall
+31,3365 S 900 W,Salt Lake City,UT,84119,10:30,1,None,SLC_UPD
+32,3365 S 900 W,Salt Lake City,UT,84119,EOD,1,Delayed Flight,SLC_UPD
+33,2530 S 500 E,Salt Lake City,UT,84106,EOD,1,None,C_Library
+34,4580 S 2300 E,Holladay,UT,84117,10:30,2,None,HC_Office
+35,1060 Dalton Ave S,Salt Lake City,UT,84104,EOD,88,None,IP_Gardens
+36,2300 Parkway Blvd,West Valley City,UT,84119,EOD,88,Truck 2,D_Lake
+37,410 S State St,Salt Lake City,UT,84111,10:30,2,None,TDJ_Court
+38,410 S State St,Salt Lake City,UT,84111,EOD,9,Truck 2,TDJ_Court
+39,2010 W 500 S,Salt Lake City,UT,84104,EOD,9,None,SLCS_Sanitation
+40,380 W 2880 S,Salt Lake City,UT,84115,10:30,45,None,UDMV_Office
